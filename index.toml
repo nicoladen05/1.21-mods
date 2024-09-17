@@ -489,3 +489,8 @@ metafile = true
 file = "mods/wavey-capes.pw.toml"
 hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
 metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "7a4b6216b054a4c9e58cb035db963975a167b976f781edf724a62b8f6368b770"
+metafile = true
