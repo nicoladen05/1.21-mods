@@ -1,0 +1,13 @@
+name = "1.21 Modded"
+author = "Nicoladen05"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29c3d3a9d85dd56333ff986897e96b3ac794e5bc7c3cf6cf143228950ad492fc"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21"

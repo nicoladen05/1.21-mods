@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-fabric-5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/GngqTZ0E/visualoverhaul-fabric-5.2.1.jar"
+hash-format = "sha1"
+hash = "953f9c46258d9293c6a353c17d8355eae7a3db0c"
+
+[update]
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "GngqTZ0E"
